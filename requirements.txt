@@ -1,0 +1,8 @@
+django==4.0.4
+django-admin-geomap==1.1
+django-ckeditor==6.4.2
+django-crispy-forms==1.14.0
+django-filter==22.1
+django-js-asset==2.0.0
+gunicorn
+Pillow
